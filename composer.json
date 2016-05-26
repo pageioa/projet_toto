@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/projet_toto",
+    "description": "Liste les etudiants de session de ESCH BELVAL",
+    "authors": [
+        {
+            "name": "paul59",
+            "email": "paul.ioanid@yahoo.com"
+        }
+    ],
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}
